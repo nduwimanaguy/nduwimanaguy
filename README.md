@@ -1,6 +1,8 @@
 ![MasterHead](https://www.net-monitor.net/wp-content/uploads/2020/08/net-monitor-animation_mobile03.gif)
 <h1 align="center">Hi 👋, I'm Guy Landry Nduwimana</h1>
 <h3 align="center">A passionate .NET developer from Belgium Antwerp</h3>
+<h5 align="center">Experienced .NET Developer with a background in building scalable and robust applications. Seeking a Mediator role to facilitate collaboration between development teams, stakeholders, and end-users, ensuring successful project outcomes.
+</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nduwimanaguy&label=Profile%20views&color=0e75b6&style=flat" alt="nduwimanaguy" /> </p>
@@ -17,6 +19,64 @@
 - 💬 Ask me about **.Net & Software Architecture**
 
 - 📫 How to reach me **guylan85@gmail.com**
+
+Professional Summary:
+---------------------
+  
+- problem-solving skills with a focus on resolving technical and interpersonal challenges.
+- ability to mediate between cross-functional teams, fostering effective communication and alignment.
+- Proficient in C#, ASP.NET, and .NET Core for building web and desktop applications.
+  
+Skills:
+-------
+- Programming Languages: C#, JavaScript, SQL
+- Web Development: ASP.NET, ASP.NET Core, HTML, CSS, JavaScript, React
+- Database Technologies: SQL Server, Entity Framework, NoSQL databases
+- Version Control: Git
+- DevOps Tools:  Azure DevOps
+- Testing and Debugging: Unit testing, Debugging tools
+- Agile/Scrum Methodologies
+- Excellent Communication and Interpersonal Skills
+- Team Collaboration and Leadership
+
+Professional Experience:
+------------------------
+Software Developer - Agidens, Zwijndrecht
+[2020 - 2022]
+
+- Collaborated with cross-functional teams to gather requirements and design software solutions.
+- Developed and maintained .NET applications, ensuring high performance and reliability.
+- Mentaind SCADA servers.
+- OPC UA .NET StandardLibrary.
+
+Business Solution Expert - Arco, Mechelen
+[2022 - 2023]
+
+- Collaborated with cross-functional teams to gather requirements and design software solutions.
+- Collaborated with product owners to define project requirements and priorities.
+- Troubleshooted and resolved complex technical issues, ensuring the stability of production systems.
+- DocProStar provides a modern, unified architecture for building, deploying, monitoring, and managing business processes.
+- SQL Database on-premises
+- SQL stored procedures
+- Views
+
+Software Developer - Axxit, Mechelen
+[2023 - 2023]
+
+- Developed and maintained .NET applications, ensuring high performance and reliability.
+- Implemented best practices for code quality, security, and scalability.
+- Contributed to the adoption of DevOps practices, streamlining the development and deployment process.
+- Collaborated with product owners to define project requirements and priorities.
+- Implemented responsive design principles to optimize the user experience across various devices.
+- Troubleshooted and resolved complex technical issues, ensuring the stability of production systems.
+
+Education:
+----------
+- Applied Informatics, Dondbosco H, ... - 2017
+   
+- Bachelor in Applied Informatics, Thomas More, 2017-2021
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
