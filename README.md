@@ -45,9 +45,11 @@ Software Developer - Agidens, Zwijndrecht
 [2020 - 2022]
 
 - Collaborated with cross-functional teams to gather requirements and design software solutions.
-- Developed and maintained .NET applications, ensuring high performance and reliability.
-- Mentaind SCADA servers.
-- OPC UA .NET StandardLibrary.
+- SCADA (Supervisory Control and Data Acquisition): I successfully worked on SCADA systems, contributing to the efficient control and monitoring of industrial processes.
+- WincCOA: I engaged in projects involving the implementation and utilization of WincCOA, streamlining operations and data management.
+- Testing: I actively participated in rigorous testing procedures, ensuring the reliability and stability of critical systems.
+- OPC UA .NET StandardLibrary: I leveraged OPC UA technologies to enhance connectivity and interoperability within industrial environments.
+- Scada Server: I was responsible for the deployment and maintenance of Scada servers, guaranteeing seamless data acquisition and management.
 
 Business Solution Expert - Arco, Mechelen
 [2022 - 2023]
@@ -56,9 +58,7 @@ Business Solution Expert - Arco, Mechelen
 - Collaborated with product owners to define project requirements and priorities.
 - Troubleshooted and resolved complex technical issues, ensuring the stability of production systems.
 - DocProStar provides a modern, unified architecture for building, deploying, monitoring, and managing business processes.
-- SQL Database on-premises
-- SQL stored procedures
-- Views
+- Utilizing SQL databases on-premises, including the development of SQL stored procedures and views.
 
 Software Developer - Axxit, Mechelen
 [2023 - 2023]
