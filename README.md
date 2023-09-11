@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nduwimanaguy&label=Profile%20views&color=0e75b6&style=flat" alt="nduwimanaguy" /> </p>
 
  
-- 👨‍💻 I’m currently working on [FirebaseAuthFlow](https://github.com/nduwimanaguy/JwtWebApp)
+- 👨‍💻 I’m currently working on [FirebaseAuthFlow](https://github.com/nduwimanaguy/JwtWebApp)  this project w'll be switch to private for  construction  at 17:00 
 
 - 🌱 I’m currently learning **React**
 
